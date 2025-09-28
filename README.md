@@ -9,33 +9,35 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about building cloud-based projects, automating workflows, and contributing to open-source.
+🚀 Passionate about building cloud-based projects and contributing to open-source.
 </p>
 
 ---
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-90%25-blue?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-75%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-70%25-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-60%25-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-PHP-blue?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-DB-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 📂 My Projects  
+## 📂 Featured Projects  
 
 | Project | Screenshot | Description | Tech |
 |---------|------------|-------------|------|
-| [Quiz Website](https://github.com/maheshnengule/Quiz-Project) | ![Quiz](https://raw.githubusercontent.com/maheshnengule/Quiz-Project/main/screenshot1.png) | Random AWS quiz generator with auto-submit, scoring, and RDS backend | PHP, MySQL, HTML/CSS |
-| [Classes Enquiry Pro](https://github.com/maheshnengule/classes-enquiry-pro) | ![Enquiry](https://raw.githubusercontent.com/maheshnengule/classes-enquiry-pro/main/screenshot1.png) | Responsive enquiry form with courses, fees, attractive UI, and AWS RDS integration | PHP, HTML/CSS/JS |
-| [Event Booking System](https://github.com/maheshnengule/Event-Booking-System) | ![Booking](https://raw.githubusercontent.com/maheshnengule/Event-Booking-System/main/screenshot1.png) | One-file event booking & ticketing app with instant confirmation and RDS backend | PHP, HTML/CSS/JS |
+| [Quiz Website](https://github.com/maheshnengule/Quiz-Project) | ![Quiz]<img width="1857" height="953" alt="Screenshot 2025-09-22 183116" src="https://github.com/user-attachments/assets/04fd17f4-6aa1-4bc1-946a-f7fe46ae191b" />
+ | AWS quiz generator with auto-submit, scoring, and RDS integration | PHP, MySQL, HTML/CSS |
+| [Classes Enquiry Pro](https://github.com/maheshnengule/classes-enquiry-pro) | ![Enquiry]<img width="1860" height="876" alt="Screenshot 2025-09-28 165649" src="https://github.com/user-attachments/assets/4c0dd72f-3edb-4c8d-9809-2a3300ed10fc" />
+ | Responsive enquiry form with courses, fees, attractive UI, and RDS backend | PHP, HTML/CSS/JS |
+| [Event Booking System](https://github.com/maheshnengule/Event-Booking-System) | ![Booking](https://raw.githubusercontent.com/maheshnengule/Event-Booking-System/![Uploading Screenshot 2025-09-28 211625.png…]()
+ | One-file event booking & ticketing app with instant confirmation and RDS backend | PHP, HTML/CSS/JS |
 
-> Hover your mouse over each project link to see an interactive badge effect.  
+> ⚠️ Make sure the screenshots (`screenshot1.png`) are uploaded to the respective repositories.
 
 ---
 
@@ -43,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshnengule&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshnengule&hide=html&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/maheshnengule?style=for-the-badge" alt="Top Languages" />
 </p>
 
 ---
